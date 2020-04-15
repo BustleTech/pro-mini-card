@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pro-mini-card/static/css/main.c91a408e.chunk.css",
+    "main.js": "/pro-mini-card/static/js/main.06f3ca8e.chunk.js",
+    "main.js.map": "/pro-mini-card/static/js/main.06f3ca8e.chunk.js.map",
+    "runtime-main.js": "/pro-mini-card/static/js/runtime-main.c1f55552.js",
+    "runtime-main.js.map": "/pro-mini-card/static/js/runtime-main.c1f55552.js.map",
+    "static/js/2.364223da.chunk.js": "/pro-mini-card/static/js/2.364223da.chunk.js",
+    "static/js/2.364223da.chunk.js.map": "/pro-mini-card/static/js/2.364223da.chunk.js.map",
+    "index.html": "/pro-mini-card/index.html",
+    "precache-manifest.357c8ba525411f802ed1098f6b3efbf5.js": "/pro-mini-card/precache-manifest.357c8ba525411f802ed1098f6b3efbf5.js",
+    "service-worker.js": "/pro-mini-card/service-worker.js",
+    "static/css/main.c91a408e.chunk.css.map": "/pro-mini-card/static/css/main.c91a408e.chunk.css.map",
+    "static/js/2.364223da.chunk.js.LICENSE.txt": "/pro-mini-card/static/js/2.364223da.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/pro-mini-card/static/media/Madhan-pro.a5c4ca7d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f55552.js",
+    "static/js/2.364223da.chunk.js",
+    "static/css/main.c91a408e.chunk.css",
+    "static/js/main.06f3ca8e.chunk.js"
+  ]
+}

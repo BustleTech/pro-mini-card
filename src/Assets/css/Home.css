@@ -1,0 +1,17 @@
+.card .img-card{
+    width: 93%;
+    height: 93%;
+    background: url("../images/Madhan-pro.jpg") no-repeat 100%;
+    background-size: cover;
+    position: absolute;
+}
+.img-card .img-name-card{
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-shadow: 3px 3px 4px green;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 3%;
+    position: relative;
+    top: 90%;
+}

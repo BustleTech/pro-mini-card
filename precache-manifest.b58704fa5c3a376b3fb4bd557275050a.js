@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a004e10a2fdcac78323f0e59f4f8814e",
+    "revision": "bd9ad963ef388b45c4680ec40312d948",
     "url": "/pro-mini-card/index.html"
   },
   {
-    "revision": "2d08a7939912da8f111a",
-    "url": "/pro-mini-card/static/css/main.c91a408e.chunk.css"
+    "revision": "197eca2418a872402fb7",
+    "url": "/pro-mini-card/static/css/main.056a0bce.chunk.css"
   },
   {
-    "revision": "f346d25ae196c7b27cef",
-    "url": "/pro-mini-card/static/js/2.364223da.chunk.js"
+    "revision": "1b5646f748ed9779a63b",
+    "url": "/pro-mini-card/static/js/2.e7b89f6f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/pro-mini-card/static/js/2.364223da.chunk.js.LICENSE.txt"
+    "url": "/pro-mini-card/static/js/2.e7b89f6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d08a7939912da8f111a",
-    "url": "/pro-mini-card/static/js/main.06f3ca8e.chunk.js"
+    "revision": "197eca2418a872402fb7",
+    "url": "/pro-mini-card/static/js/main.5910a41c.chunk.js"
   },
   {
     "revision": "4a073f92af96c8259ef2",

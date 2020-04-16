@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 
-class Social extends Component {
+class Technical extends Component {
     render() {
         return (
-            <div className="social-card">
+            <div className="technical-card">
                 <p className="text-head">
-                    <i class="fa fa-users" aria-hidden="true"></i>
+                    <i class="fa fa-code" aria-hidden="true"></i>
                 </p>
             </div>
         );
     }
 }
 
-export default Social;
+export default Technical;
